@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -  Estudante de ADS;
-- 📫 contate-me pelo email: marcooliveira98@outlook.com;
+- 📫 contate-me pelo email: marco_oliveira98@outlook.com;
 
 
 <!-- <div align="left">
